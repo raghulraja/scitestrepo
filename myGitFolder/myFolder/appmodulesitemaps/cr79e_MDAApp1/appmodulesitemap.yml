@@ -1,0 +1,41 @@
+AppModuleSiteMap:
+  SiteMapUniqueName: cr79e_MDAApp1
+  EnableCollapsibleGroups: False
+  ShowHome: True
+  ShowPinned: True
+  ShowRecents: True
+  SiteMap:
+    '@IntroducedVersion': 7.0.0.0
+    Area:
+      '@Id': area_94fcf519
+      '@ResourceId': SitemapDesigner.NewTitle
+      '@DescriptionResourceId': SitemapDesigner.NewTitle
+      '@ShowGroups': true
+      '@IntroducedVersion': 7.0.0.0
+      Titles:
+        Title:
+          '@LCID': 1033
+          '@Title': Area1
+      Group:
+        '@Id': group_0164aa8a
+        '@ResourceId': SitemapDesigner.NewGroup
+        '@DescriptionResourceId': SitemapDesigner.NewGroup
+        '@IntroducedVersion': 7.0.0.0
+        '@IsProfile': false
+        '@ToolTipResourseId': SitemapDesigner.Unknown
+        SubArea:
+          '@Id': subarea_2de9ab19
+          '@Icon': /_imgs/imagestrips/transparent_spacer.gif
+          '@Client': All,Outlook,OutlookLaptopClient,OutlookWorkstationClient,Web
+          '@AvailableOffline': true
+          '@PassParams': false
+          '@Sku': All,OnPremise,Live,SPLA
+          '@Page': cr79e_page1_7df1b
+          Titles:
+            Title:
+              '@LCID': 1033
+              '@Title': Page1
+  LocalizedNames:
+    LocalizedName:
+      '@description': MDAApp1
+      '@languagecode': 1033

@@ -1,0 +1,7 @@
+SolutionComponents:
+  Component:
+  - '@path': /appmodules/cr79e_MDAApp1
+  - '@path': /appmodulesitemaps/cr79e_MDAApp1
+  - '@path': /canvasapps/cr79e_page1_7df1b
+  - '@path': /environmentvariabledefinitions/cr79e_env2
+  - '@path': /publishers/Cr0c1f7

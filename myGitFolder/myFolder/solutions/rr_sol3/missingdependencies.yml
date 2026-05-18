@@ -1,0 +1,15 @@
+MissingDependencies:
+  MissingDependency:
+    Required:
+      '@type': 61
+      '@schemaName': msdyn_/Images/AppModule_Default_Icon.png
+      '@displayName': msdyn_/Images/AppModule_Default_Icon.png
+      '@solution': AppModuleWebResources (2.5)
+      package:
+        '@appName': AppModule Web Resources Package
+        '@version': 2.5
+        '#text': AppModuleWebResources (2.5)
+    Dependent:
+      '@type': 80
+      '@schemaName': cr79e_MDAApp1
+      '@displayName': MDAApp1

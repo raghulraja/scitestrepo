@@ -1,0 +1,11 @@
+RootComponents:
+  RootComponent:
+  - '@type': 62
+    '@schemaName': cr79e_MDAApp1
+    '@behavior': 0
+  - '@type': 80
+    '@schemaName': cr79e_MDAApp1
+    '@behavior': 0
+  - '@type': 300
+    '@schemaName': cr79e_page1_7df1b
+    '@behavior': 0

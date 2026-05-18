@@ -1,0 +1,29 @@
+AppModule:
+  UniqueName: cr79e_MDAApp1
+  IntroducedVersion: 1.0.0.0
+  WebResourceId: 953b9fac-1e5e-e611-80d6-00155ded156f
+  OptimizedFor: ''
+  statecode: 0
+  statuscode: 1
+  FormFactor: 1
+  ClientType: 4
+  NavigationType: 0
+  AppModuleComponents:
+    AppModuleComponent:
+      '@type': 62
+      '@schemaName': cr79e_MDAApp1
+  AppModuleRoleMaps:
+    Role:
+    - '@id': '{627090ff-40a3-4053-8790-584edc5be201}'
+    - '@id': '{119f245c-3cc8-4b62-b31c-d1a046ced15d}'
+  LocalizedNames:
+    LocalizedName:
+      '@description': MDAApp1
+      '@languagecode': 1033
+  appelements:
+    appelement:
+      '@uniquename': cr79e_cr79e_MDAApp1_canvasappid_cr79e_page1_7df1b
+      canvasappid:
+        name: cr79e_page1_7df1b
+      iscustomizable: 1
+      name: cr79e_cr79e_MDAApp1_canvasappid_cr79e_page1_7df1b

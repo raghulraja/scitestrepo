@@ -1,0 +1,11 @@
+{
+  "AppName": "Page1",
+  "BackgroundColor": "RGBA(255,255,255,1)",
+  "PublishTarget": "player",
+  "LogoFileName": "",
+  "IconColor": "RGBA(255,255,255,1)",
+  "IconName": "PowerApp",
+  "PublishResourcesLocally": false,
+  "PublishDataLocally": false,
+  "UserLocale": "en-US"
+}
